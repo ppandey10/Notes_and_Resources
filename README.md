@@ -1,1 +1,1 @@
-This repository will most of my lecture notes and other useful papers. 
+This repository will contain most of my lecture notes and other useful papers. 
